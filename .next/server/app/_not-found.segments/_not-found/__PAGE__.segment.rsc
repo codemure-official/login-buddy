@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[11541,["/_next/static/chunks/16d9_9ac9ptgr.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[11541,["/_next/static/chunks/16d9_9ac9ptgr.js"],"ViewportBoundary"]
+8:I[11541,["/_next/static/chunks/16d9_9ac9ptgr.js"],"MetadataBoundary"]
+a:I[90866,["/_next/static/chunks/16d9_9ac9ptgr.js"],"default"]
+b:I[50815,["/_next/static/chunks/16d9_9ac9ptgr.js"],"default"]
+:HL["/_next/static/chunks/2k-_6fozufj43.css","style"]
+6:X
+d:X
+d:C
+0:{"buildId":"zkUScdHxc3sIob4RlwBSs","data":[{"rsc":["$","$1","c",{"children":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Privacy Buddy — Interactive login"}],["$","meta","1",{"name":"description","content":"A privacy-aware login companion that reacts as you sign in."}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@9","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"isPartial":"$@c","staleTime":"$6","varyParams":"$d"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k-_6fozufj43.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/16d9_9ac9ptgr.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"geist_dbbf8c4b-module__5qCx7q__variable geist_mono_8d43a2aa-module__8Li5zG__variable","children":["$","$La",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:data:0:rsc:props:children:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:data:0:rsc:props:children:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:data:0:rsc:props:children:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:data:0:rsc:props:children:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"isPartial":"$@e","staleTime":"$6","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+4:null
+6:300
+10:true
+6:C
+f:0
+9:"$undefined"
+c:"$undefined"
+e:"$undefined"
+5:"$undefined"

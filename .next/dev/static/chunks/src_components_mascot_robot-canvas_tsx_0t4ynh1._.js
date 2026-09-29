@@ -1,0 +1,17 @@
+(globalThis["TURBOPACK"] || (globalThis["TURBOPACK"] = [])).push([typeof document === "object" ? document.currentScript : undefined,
+"[project]/src/components/mascot/robot-canvas.tsx [app-client] (ecmascript, next/dynamic entry, async loader)", ((__turbopack_context__) => {
+
+__turbopack_context__.v((parentImport) => {
+    return Promise.all([
+  "static/chunks/1dql_three_build_three_core_1b1iemq.js",
+  "static/chunks/1dql_three_build_three_module_04jj_d6.js",
+  "static/chunks/1dql_three_build_three_module_07v05ty.js",
+  "static/chunks/0sbj_@react-three_fiber_dist_0axqj-r._.js",
+  "static/chunks/node_modules__pnpm_1vvzugt._.js",
+  "static/chunks/src_1i43ru-._.js"
+].map((chunk) => __turbopack_context__.l(chunk))).then(() => {
+        return parentImport("[project]/src/components/mascot/robot-canvas.tsx [app-client] (ecmascript, next/dynamic entry)");
+    });
+});
+}),
+]);
